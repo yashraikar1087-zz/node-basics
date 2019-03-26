@@ -1,3 +1,3 @@
-const fs = require("fs");
+const notes = require("./notes");
 
-fs.appendFileSync("notes.txt", "TTest");
+notes();
