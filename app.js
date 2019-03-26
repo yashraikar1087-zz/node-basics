@@ -1,3 +1,5 @@
+const validator = require("validator");
+
 const notes = require("./notes");
 
-notes();
+console.log(validator.isEmail("yash@gmail.com"));
