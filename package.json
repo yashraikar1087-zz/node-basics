@@ -1,0 +1,23 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashraikar1087/node-basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yashraikar1087/node-basics/issues"
+  },
+  "homepage": "https://github.com/yashraikar1087/node-basics#readme",
+  "dependencies": {
+    "validator": "^10.11.0"
+  }
+}
